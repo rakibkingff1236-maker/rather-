@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">QR Code App</string>
+    
+    <!-- Main Activity -->
+    <string name="main_title">QR Code App</string>
+    <string name="main_subtitle">Generate and Scan QR Codes</string>
+    <string name="generate_qr_button">Generate QR Code</string>
+    <string name="scan_qr_button">Scan QR Code</string>
+    
+    <!-- Generate QR Activity -->
+    <string name="generate_qr_title">Generate QR Code</string>
+    <string name="input_hint">Enter text to generate QR code</string>
+    <string name="generate_button">Generate QR Code</string>
+    <string name="save_button">Save QR Code</string>
+    <string name="share_button">Share QR Code</string>
+    <string name="empty_input_error">Please enter some text</string>
+    <string name="qr_saved_success">QR Code saved to gallery</string>
+    <string name="qr_save_error">Failed to save QR Code</string>
+    
+    <!-- Scan QR Activity -->
+    <string name="scan_qr_title">Scan QR Code</string>
+    <string name="scan_result_title">Scan Result:</string>
+    <string name="copy_button">Copy</string>
+    <string name="share_result_button">Share</string>
+    <string name="scan_again_button">Scan Again</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="camera_permission_required">Camera permission is required to scan QR codes</string>
+    <string name="camera_permission_denied">Camera permission denied</string>
+    
+    <!-- General -->
+    <string name="error_title">Error</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>
